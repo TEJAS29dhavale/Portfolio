@@ -17,3 +17,5 @@ tr=true;
 function requestResume() {
     window.location.href = "mailto:your-email@example.com?subject=Request for Resume&body=Hi Tejas,%0D%0A%0D%0AI would like to request access to your resume. Please share the details.%0D%0A%0D%0AThank you!";
 }
+
+document.getElementById("year").textContent = new Date().getFullYear();
