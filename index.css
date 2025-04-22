@@ -401,6 +401,15 @@ transition: 0.50s;
   .exp1-im{
     display: flex;
   }
+  #ex3-im-1{
+    width: 10rem;
+    height: fit-content;
+    margin: 2rem;
+  }
+  #ex3-im-2{
+    width: 27rem;
+    height: fit-content;
+  }
   #ex2-im-1{
     width: 13rem;
     height: 8rem;
