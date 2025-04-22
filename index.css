@@ -26,6 +26,11 @@
       transform: translateY(0);
     }
   }
+#t1,#t2,#t3,#t4,#t5,#t6{
+  animation: appear ease-out;
+  animation-timeline: view();
+  animation-range:entry 0% ;
+}
   
  body{
   background-color:none;
